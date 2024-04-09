@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/kenil0811/Library-management-system.git">Library Management System</a>
 
 <h4>The data set I viewed was the Titanic Survival Data</h4>
-<a href="https://www.kaggle.com/c/titanic/data"> Titanic Survival Data on Kaggle</a> <h4>,</h4>
+<a href="https://www.kaggle.com/c/titanic/data"> Titanic Survival Data on Kaggle</a> <h4></h4>
 <a href="https://github.com/awesomedata/apd-core/blob/master/core/SocialSciences/Titanic-Survival-Data-Set.yml"> Github Titanic Survival Metadata</a> 
