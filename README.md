@@ -1,4 +1,4 @@
-### Hi, my name is Elizabeth and it seems that this is my GitHub page
+### Hi, my name is Elizabeth and this is my GitHub page for INFO 591
 
 <!--
 **edawson25/edawson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
