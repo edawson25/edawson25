@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a paper for INFO 591.
+- 🔭 I’m currently on my fifth and final quarter at Drexel.
 - 🌱 I’m currently learning about digital curation and data solutions.
-- 👯 I’m looking to collaborate on coding I guess, if I have to that is.
 - 🤔 I’m looking for help with coding if I need to do more.
 - 💬 Ask me about books cause I read a lot.
 - 📫 How to reach me: Send me snail mail.
