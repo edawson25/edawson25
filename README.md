@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Elizabeth and it seems that this is my GitHub page
 
 <!--
 **edawson25/edawson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I met Corbin Bleu once and he said happy birthday to me.
 
 -->
-<h1>Hi, my name is Elizabeth and it seems that this is my GitHub page</h1>
 
-
+<h2> Below is a link to the Library Management System</h2>
+  
 <a href="https://github.com/kenil0811/Library-management-system.git"> Library Management System</a>
